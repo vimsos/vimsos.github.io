@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinicius @vvwvin</title>
+    <link>https://vvwvin.rocks/</link>
+    <description>Recent content on Vinicius @vvwvin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Vinicius Santos 2021</copyright>
+    <lastBuildDate>Mon, 30 Nov 2020 10:30:30 -0300</lastBuildDate><atom:link href="https://vvwvin.rocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>❯ whoami</title>
+      <link>https://vvwvin.rocks/blog/whoami/</link>
+      <pubDate>Mon, 30 Nov 2020 10:30:30 -0300</pubDate>
+      
+      <guid>https://vvwvin.rocks/blog/whoami/</guid>
+      <description>Hi, my name is Vinicius1
+I am a programmer and game designer based off Salvador, Bahia. I&amp;rsquo;m studying game development as an undergrad at the State University of Bahia and my main research interests lie at the intersection between game and web technologies.
+Unity3D is my weapon of choice and C# is my main programming language, but I also know little bit of golang, Node.js, and Docker.
+I am also disabled.</description>
+    </item>
+    
+  </channel>
+</rss>
